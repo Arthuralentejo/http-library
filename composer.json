@@ -1,0 +1,20 @@
+{
+    "name": "alentejo/http",
+    "description": "A simple http library made in php",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Alentejo\\Http\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Arthur Alentejo",
+            "email": "arthur.alentejo228@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    }
+}
